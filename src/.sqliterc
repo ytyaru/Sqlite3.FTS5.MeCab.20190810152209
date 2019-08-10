@@ -1,0 +1,6 @@
+.load /home/pi/root/sys/env/tool/sqlite_ext/fts5_mecab.so
+.mode column
+.width 0
+.headers on
+.timer on
+.nullvalue NULL
